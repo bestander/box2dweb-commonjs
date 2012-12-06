@@ -5,7 +5,7 @@
   "version": "2.1.a",
   "keywords": [
     "game",
-    "box2d",
+    "box2d"
   ],
   "main": "Box2dWeb-2.1.a.3.js",
   "scripts": [
