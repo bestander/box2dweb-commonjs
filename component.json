@@ -1,0 +1,15 @@
+{
+  "name": "box2dweb-commonjs",
+  "repo": "bestander/box2dweb-commonjs",
+  "description": "Box2dweb as a Common JS module",
+  "version": "2.1.a",
+  "keywords": [
+    "game",
+    "box2d",
+  ],
+  "main": "Box2dWeb-2.1.a.3.js",
+  "scripts": [
+    "Box2dWeb-2.1.a.3.js"
+  ],
+  "license": "MIT"
+}
