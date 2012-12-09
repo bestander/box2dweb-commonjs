@@ -2,10 +2,10 @@
   "name": "box2dweb-commonjs",
   "repo": "bestander/box2dweb-commonjs",
   "description": "Box2dweb as a Common JS module",
-  "version": "2.1.a",
+  "version": "2.1.0",
   "keywords": [
     "game",
-    "box2d",
+    "box2d"
   ],
   "author": {
     "name": "Konstantin Raev",
