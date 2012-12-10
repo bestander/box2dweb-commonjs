@@ -1,6 +1,6 @@
 .gitignore
 .npmignore
 
+.idea
 component.json
 demo.html
-README.md
