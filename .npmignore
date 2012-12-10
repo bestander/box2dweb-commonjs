@@ -1,0 +1,6 @@
+.gitignore
+.npmignore
+
+component.json
+demo.html
+README.md
